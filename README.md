@@ -12,7 +12,7 @@ Voici des fonctionnalités basiques que tu dois rajouter :
 
 #Côté front :
 
-Ajouter une barre de navigation qui va contenir les liens des pages des futur quizz. 
+Ajouter une barre de navigation qui va contenir les liens des pages des futur quizz. Cette barre de navigaition peut être faite de n'importe quelle manière, sauf la barre classique que l'on retrouve partout, un peu d'originalité Guillaume! 
 
 Ici nous sommes sur le quizz js, mais à l'avenir il y en aura 3 autres, cela fera 4 quizz au total. Je te laisse choisir le langage des 3 autres quizz. 
 
