@@ -3,8 +3,10 @@ Ok Guillaume un petit challenge pour te faire passer le temps si tu réussis à 
 
 
 Un simple quizz porté sur les connaissances en javascript avec seulement 4 petites questions de rien du tout. 
+
 Ton but ne vas pas être de répondre correctement à ces 4 questions (tu te doutes bien que ce serait trop facile!).
 Ta mission est d'améliorer ce quizz. Lorsque tu auras essayé d'aller au bout de ces 4 questions tu remarquera que ça pourrait être nettement moins plat...
+
 
 Voici des fonctionnalités basiques que tu dois rajouter : 
 
